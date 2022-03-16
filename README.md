@@ -17,6 +17,7 @@ Here, our task is to predict the next set of products (upto 3 products) for a se
 ### Dataset Description
 ### Train.csv
 
+|---|---|
 Customer_ID|Unique ID for the customer 
 Gender|Gender of the Customer
 Age|Age of the Customer (in Years)
@@ -29,6 +30,7 @@ Product_Holding_B2 |Product Holding in next six months (Encoded) - Target Column
  
 ### Test.csv
 
+|---|---|
 Customer_ID|Unique ID for the customer 
 Gender|Gender of the Customer
 Age|Age of the Customer (in Years)
