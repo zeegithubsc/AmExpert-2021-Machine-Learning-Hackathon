@@ -11,7 +11,9 @@ The Bank wants to predict the next set of products for a set of customers to opt
 The data available in this problem contains the following information:
 
 •	User Demographic Details : Gender, Age, Vintage, Customer Category etc.
+
 •	Current Product Holdings
+
 •	Product Holding in Next 6 Months (only for Train dataset)
 
 Here, our task is to predict the next set of products (upto 3 products) for a set of customers (Test data) based on their demographics and current product holdings.
