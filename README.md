@@ -1,6 +1,8 @@
-# AmExpert-2021-Machine-Learning-Hackathon
+# AmExpert-2021-Machine-Learning-Hackathon 
 
 ## Rank 23 solution AmExpert 2021 – Machine Learning Hackathon
+## Leadeboard link (user: xeeman)
+https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard
 
 XYZ Bank is a mid-sized private bank that includes a variety of banking products, such as savings accounts, current accounts, investment products, credit products, and home loans.
 
@@ -65,3 +67,10 @@ Note : Format of your submission should be as mentioned in the sample submission
 
 •	Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
  
+## Rank 23 Solution Description
+The main challenge in this competition is how to tackle mutiple product recommendations. We are also asked not to use customerID features as part of this competition. This would mean that we cannot use matrix factorization based features which provide significant perfromance improvement. Following are salient features of this solution:
+
+* This solution converts the problem into a multi-label classification problem where multiple label can be correct.
+* It applies MultilabelStratifiedKFold to get train and validation sets (using the library iterstrat. source: https://github.com/trent-b/iterative-stratification)
+* The prediction is made over 5-fold MultilabelStratifiedKFold and aggregated probablities from the 5 folds are used for prediction.
+* Top three predictions with highest probability is used for recommendation.
