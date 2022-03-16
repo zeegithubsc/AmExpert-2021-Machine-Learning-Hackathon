@@ -55,6 +55,8 @@ In this case, The precision at 1 will be: 1*1/1 = 1 The precision at 2 will be: 
 ![alt text](https://github.com/zeegithubsc/AmExpert-2021-Machine-Learning-Hackathon/blob/main/mapk1.JPG)
 
 Mean average precision is the mean of average precision calculated across all users
+
+![alt text](https://github.com/zeegithubsc/AmExpert-2021-Machine-Learning-Hackathon/blob/main/mapk2.JPG)
  
 Where n = number of customers
  
