@@ -54,24 +54,36 @@ The final rankings would be based on your private score which will be published 
 
 ### Guidelines for Final Submission
 Please ensure that your final submission includes the following:
+
 •	Solution file containing the predictions for next 3 products (format is given in sample submission csv)
 Note : Format of your submission should be as mentioned in the sample submission file.
+
 •	Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
  
 ### Submission Tutorials:
 How to Make a Submission?
 •	All Submissions are to be done at the solution checker tab.
+
 •	For a step by step view on how to make a submission check the below video
 
 
 ### Hackathon Rules
 •	The final standings would be based on private leaderboard score.
+
 •	You should not use Customer_ID as a feature to build the model.
-•	Setting the final submission is recommended. Without a final submission, the submission corresponding to best public score will be taken as the final submission
-•	Use of external data is prohibited
-•	You can only make 10 submissions per day
-•	Entries submitted after the contest is closed, will not be considered
-•	The code file pertaining to your final submission is mandatory while setting final submission
+
+•	Setting the final submission is recommended. Without a final submission, the submission corresponding to best public score will be taken as the final submission.
+
+•	Use of external data is prohibited.
+
+•	You can only make 10 submissions per day.
+
+•	Entries submitted after the contest is closed, will not be considered.
+
+•	The code file pertaining to your final submission is mandatory while setting final submission.
+
 •	Throughout the hackathon, you are expected to respect fellow hackers and act with high integrity.
+
 •	Analytics Vidhya and American Express holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
-•	Use of multiple Login IDs will lead to immediate disqualification
+
+•	Use of multiple Login IDs will lead to immediate disqualification.
