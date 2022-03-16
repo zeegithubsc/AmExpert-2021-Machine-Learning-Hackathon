@@ -31,14 +31,14 @@ Product_Holding_B2 |Product Holding in next six months (Encoded) - Target Column
 ### Test.csv
 
 |---|---|
-Customer_ID|Unique ID for the customer 
-Gender|Gender of the Customer
-Age|Age of the Customer (in Years)
-Vintage|Vintage for the Customer (In Months)
-Is_Active|Activity Index, 0 :  Less frequent customer, 1 : More frequent customer
-City_Category|Encoded Category of customer's city
-Customer_Category|Encoded Category of the customer
-Product_Holding_B1|Current Product Holding (Encoded)
+Customer_ID|Unique ID for the customer|
+Gender|Gender of the Customer|
+Age|Age of the Customer (in Years)|
+Vintage|Vintage for the Customer (In Months)|
+Is_Active|Activity Index, 0 :  Less frequent customer, 1 : More frequent customer|
+City_Category|Encoded Category of customer's city|
+Customer_Category|Encoded Category of the customer|
+Product_Holding_B1|Current Product Holding (Encoded)|
  
 ### Evaluation Metric
 
