@@ -52,6 +52,8 @@ The evaluation metric is Mean Average Precision (MAP) at K (K = 3). MAP is a wel
 
 In this case, The precision at 1 will be: 1*1/1 = 1 The precision at 2 will be: 0*1/2 The precision at 3 will be: 1*2/3 = 0.67 Average Precision will be: (1 + 0 + 0.67)/3 = 0.556. The formula is:
 
+![alt text](https://github.com/zeegithubsc/AmExpert-2021-Machine-Learning-Hackathon/blob/main/mapk1.JPG)
+
 Mean average precision is the mean of average precision calculated across all users
  
 Where n = number of customers
